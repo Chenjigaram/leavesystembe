@@ -6,7 +6,7 @@
 	<groupId>com.infy.leave</groupId>
 	<artifactId>LeaveSystem</artifactId>
 	<version>V1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>LeaveSystem</name>
 	<description>Leave System Back End</description>
